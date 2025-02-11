@@ -1,0 +1,17 @@
+{
+    "name": "AD_core",
+    "rootNamespace": "",
+    "references": [
+        "AltoCityUICustom",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
